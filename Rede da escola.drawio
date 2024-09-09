@@ -272,10 +272,10 @@
           <mxGeometry x="231" y="283.5" width="26.5" height="2" as="geometry" />
         </mxCell>
         <mxCell id="0jPPomBYPSkBsWRgP7Vu-109" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="255.75" y="332.25" width="12" height="213" as="geometry" />
+          <mxGeometry x="241.88" y="346.13" width="12" height="185.25" as="geometry" />
         </mxCell>
         <mxCell id="0jPPomBYPSkBsWRgP7Vu-110" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="255" y="412" width="12" height="212.5" as="geometry" />
+          <mxGeometry x="241" y="426" width="12" height="184.5" as="geometry" />
         </mxCell>
         <mxCell id="0jPPomBYPSkBsWRgP7Vu-111" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="149.95" y="439" width="12" height="81" as="geometry" />
@@ -284,7 +284,7 @@
           <mxGeometry x="262" y="439" width="12" height="81" as="geometry" />
         </mxCell>
         <mxCell id="0jPPomBYPSkBsWRgP7Vu-114" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="438" width="12" height="81" as="geometry" />
+          <mxGeometry x="334.25" y="438" width="12" height="81" as="geometry" />
         </mxCell>
         <mxCell id="0jPPomBYPSkBsWRgP7Vu-115" value="&lt;font style=&quot;font-size: 3px;&quot; color=&quot;#3f60cc&quot;&gt;HARDWARE&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontColor=#cc3838;" vertex="1" parent="1">
           <mxGeometry x="196" y="439" width="40" height="8.5" as="geometry" />
@@ -315,6 +315,39 @@
         </mxCell>
         <mxCell id="0jPPomBYPSkBsWRgP7Vu-124" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.webcam;rounded=0;fontFamily=Helvetica;fontSize=4;fontColor=#cc3838;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="227.25" y="487" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-125" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="438" width="12" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-126" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.95" y="438" width="12" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-127" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="436.33" y="478.88" width="12" height="78.75" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-128" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="436.33" y="397.88" width="12" height="78.75" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-129" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="180" y="447.5" width="10" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-130" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;roteador wireless&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="171.75" y="460" width="26.5" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-131" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="420.45" y="497" width="10" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-132" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;roteador wireless&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="409.83000000000004" y="510" width="26.5" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-133" value="" style="shape=xor;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=4;fontColor=#cc3838;fillColor=none;gradientColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="511" y="155" width="9.38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-134" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.95" y="170" width="12" height="85.25" as="geometry" />
+        </mxCell>
+        <mxCell id="0jPPomBYPSkBsWRgP7Vu-135" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="508.38" y="134.37" width="12" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
